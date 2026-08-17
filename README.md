@@ -1,2 +1,2 @@
 # JUnit-KTPM
-Demo môn học Kiẻm thủe phần mêm - JUnit
+Demo môn học Kiểm thử phần mềm - JUnit
